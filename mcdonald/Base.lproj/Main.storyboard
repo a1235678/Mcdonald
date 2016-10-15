@@ -6,10 +6,10 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--優惠券-->
+        <!--首頁-->
         <scene sceneID="9ph-GZ-QSn">
             <objects>
-                <tableViewController storyboardIdentifier="Menu" id="pWR-8M-7ST" sceneMemberID="viewController">
+                <tableViewController storyboardIdentifier="Menu" title="首頁" id="pWR-8M-7ST" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="static" style="plain" separatorStyle="default" rowHeight="170" sectionHeaderHeight="28" sectionFooterHeight="28" id="Ctl-UH-GRP">
                         <rect key="frame" x="0.0" y="64" width="375" height="603"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -169,10 +169,10 @@
             </objects>
             <point key="canvasLocation" x="2143.1999999999998" y="-3.1484257871064472"/>
         </scene>
-        <!--優惠券-->
+        <!--滿福堡-->
         <scene sceneID="n5c-7j-LN3">
             <objects>
-                <viewController hidesBottomBarWhenPushed="YES" id="BX3-p5-D54" sceneMemberID="viewController">
+                <viewController title="滿福堡" hidesBottomBarWhenPushed="YES" id="BX3-p5-D54" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="dYb-N9-gYx"/>
                         <viewControllerLayoutGuide type="bottom" id="snl-hr-IzH"/>
@@ -209,7 +209,7 @@
         <!--歡樂貼-->
         <scene sceneID="68z-H1-AL9">
             <objects>
-                <viewController id="7vq-IZ-6Ty" sceneMemberID="viewController">
+                <viewController title="歡樂貼" id="7vq-IZ-6Ty" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="aZw-E8-uOH"/>
                         <viewControllerLayoutGuide type="bottom" id="ys9-7F-xRP"/>
@@ -232,10 +232,10 @@
             </objects>
             <point key="canvasLocation" x="1362" y="802"/>
         </scene>
-        <!--優惠券-->
+        <!--大薯-->
         <scene sceneID="NGz-Ng-JTV">
             <objects>
-                <viewController hidesBottomBarWhenPushed="YES" id="EUF-lg-7Pp" sceneMemberID="viewController">
+                <viewController title="大薯" hidesBottomBarWhenPushed="YES" id="EUF-lg-7Pp" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="VUU-kp-zGU"/>
                         <viewControllerLayoutGuide type="bottom" id="Niw-mI-pqs"/>
@@ -337,10 +337,10 @@
             </objects>
             <point key="canvasLocation" x="537" y="802"/>
         </scene>
-        <!--優惠券-->
+        <!--大麥克-->
         <scene sceneID="COp-He-uNk">
             <objects>
-                <viewController hidesBottomBarWhenPushed="YES" id="gSt-OC-xZY" sceneMemberID="viewController">
+                <viewController title="大麥克" hidesBottomBarWhenPushed="YES" id="gSt-OC-xZY" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="cuP-Sw-51d"/>
                         <viewControllerLayoutGuide type="bottom" id="cBT-ex-8GU"/>
