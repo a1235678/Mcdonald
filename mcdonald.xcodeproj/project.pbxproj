@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					BC1E5CF61DB0B0DE002D8F78 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 8926RT4SPA;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8926RT4SPA;
 				INFOPLIST_FILE = mcdonald/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.wow.mcdonald;
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8926RT4SPA;
 				INFOPLIST_FILE = mcdonald/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.wow.mcdonald;
@@ -297,6 +300,7 @@
 				BC1E5D0B1DB0B0DE002D8F78 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
